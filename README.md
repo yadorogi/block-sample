@@ -21,3 +21,4 @@ npm install
 ```
 npm run dev
 ```
+<img width="500" alt="Screenshot" src="https://user-images.githubusercontent.com/5846718/148604245-a63c61f1-15e8-4991-bf99-46d101351beb.png">
